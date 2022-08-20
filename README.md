@@ -2,4 +2,4 @@
  
  <img src="img/dio-m-game.png">
 
-https://juniorandrades.github.io/jogo-da-memoria/
+<a href="https://juniorandrades.github.io/jogo-da-memoria/" target="_blank">
